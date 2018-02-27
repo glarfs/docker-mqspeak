@@ -1,5 +1,5 @@
 # docker-mqspeak
-Deploy mqspeak docker
+MQTT to thingspeak publisher docker
 
 ## Run
 ```
